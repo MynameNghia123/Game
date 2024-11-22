@@ -1,0 +1,19 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+obj/
+[Tt]estResult/
+Build/
+Builds/
+# User-specific files
+.vscode/
+.idea/
+.DS_Store
+.vs/
+.vsconfig
+
+# Unity specific
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
