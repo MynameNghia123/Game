@@ -2869,7 +2869,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pG1FNM_132
+      name: Player
       rect:
         serializedVersion: 2
         x: 64
@@ -5275,6 +5275,7 @@ TextureImporter:
     nameFileIdTable:
       CHEST_03: -1806524128
       Chest_01: 1583128260
+      Player: 370422956
       chest_02: 666736107
       pG1FNM_0: 2133158182
       pG1FNM_1: -1926872474
@@ -5314,7 +5315,6 @@ TextureImporter:
       pG1FNM_13: -15256201
       pG1FNM_130: 60034620
       pG1FNM_131: 1304263510
-      pG1FNM_132: 370422956
       pG1FNM_133: -80803427
       pG1FNM_134: -858189560
       pG1FNM_135: -530967659
